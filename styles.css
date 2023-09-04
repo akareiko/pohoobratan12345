@@ -1,0 +1,19 @@
+.link {
+    fill: none;
+    stroke: #555;
+    stroke-opacity: 0.4;
+    stroke-width: 1.5px;
+}
+
+.node--internal circle {
+    fill: #555;
+}
+
+.node--leaf circle {
+    fill: #fff;
+    stroke: #555;
+}
+
+.node--leaf text {
+    font: 12px sans-serif;
+}
